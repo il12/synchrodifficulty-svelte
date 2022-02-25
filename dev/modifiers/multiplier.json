@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Performing Hybrid half of the participants",
+    "category": "Multiplier",
+    "unique": true,
+    "values": {
+      "solo": null,
+      "duet": 0.5,
+      "team": 0.5
+    }
+  },
+  {
+    "name": "Performing Hybrid less half of the participants",
+    "category": "Multiplier",
+    "unique": true,
+    "values": {
+      "solo": null,
+      "duet": null,
+      "team": 0.3
+    }
+  },
+  {
+    "name": "Performing Hybrid synchronously, by 8 people",
+    "category": "Multiplier",
+    "unique": true,
+    "values": {
+      "solo": null,
+      "duet": null,
+      "team": 1.1
+    }
+  },
+  {
+    "name": "Performing Hybrid asynchronously, by 2 groups of 4 people",
+    "category": "Multiplier",
+    "unique": true,
+    "values": {
+      "solo": null,
+      "duet": null,
+      "team": 0.9
+    }
+  },
+  {
+    "name": "Performing Hybrid asynchronously, by 4 groups of 2 people",
+    "category": "Multiplier",
+    "unique": true,
+    "values": {
+      "solo": null,
+      "duet": null,
+      "team": 0.8
+    }
+  }
+]

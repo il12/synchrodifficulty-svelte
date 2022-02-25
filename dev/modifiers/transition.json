@@ -1,0 +1,132 @@
+[
+  {
+    "name": "Sequence Ballet leg with travelling",
+    "category": "Ballet leg",
+    "unique": false,
+    "values": {
+      "solo": 0.215,
+      "duet": 0.215,
+      "team": 0.215
+    }
+  },
+  {
+    "name": "Boost or Boost with one arm",
+    "category": "Boost",
+    "unique": false,
+    "values": {
+      "solo": 0.095,
+      "duet": 0.095,
+      "team": 0.095
+    }
+  },
+  {
+    "name": "Boost with two arms",
+    "category": "Boost",
+    "unique": false,
+    "values": {
+      "solo": 0.11,
+      "duet": 0.11,
+      "team": 0.11
+    }
+  },
+  {
+    "name": "Boost rotation 180°",
+    "category": "Boost",
+    "unique": false,
+    "values": {
+      "solo": 0.125,
+      "duet": 0.125,
+      "team": 0.125
+    }
+  },
+  {
+    "name": "Boost rotation 360°",
+    "category": "Boost",
+    "unique": false,
+    "values": {
+      "solo": 0.14,
+      "duet": 0.14,
+      "team": 0.14
+    }
+  },
+  {
+    "name": "Extreme flexibility",
+    "category": "Flexibility",
+    "unique": false,
+    "values": {
+      "solo": 0.1094,
+      "duet": 0.1094,
+      "team": 0.1094
+    }
+  },
+  {
+    "name": "Eggbeater holding double arms with travelling",
+    "category": "Eggbeater",
+    "unique": false,
+    "values": {
+      "solo": 0.135,
+      "duet": 0.135,
+      "team": 0.135
+    }
+  },
+  {
+    "name": "Difficulty pattern formations (straight line, diagonal line, circles, curved lines, etc.)",
+    "category": "Pattern",
+    "unique": false,
+    "values": {
+      "solo": null,
+      "duet": null,
+      "team": 0.1
+    }
+  },
+  {
+    "name": "Pattern changes head under the water",
+    "category": "Pattern",
+    "unique": false,
+    "values": {
+      "solo": null,
+      "duet": null,
+      "team": 0.02
+    }
+  },
+  {
+    "name": "Surface pattern changes",
+    "category": "Pattern",
+    "unique": false,
+    "values": {
+      "solo": null,
+      "duet": null,
+      "team": 0.05
+    }
+  },
+  {
+    "name": "Surface blind pattern changes",
+    "category": "Pattern",
+    "unique": false,
+    "values": {
+      "solo": null,
+      "duet": null,
+      "team": 0.1
+    }
+  },
+  {
+    "name": "Pair acrobatics (temporary version)",
+    "category": "Pair acrobatics",
+    "unique": false,
+    "values": {
+      "solo": null,
+      "duet": 0.2,
+      "team": 0.2
+    }
+  },
+  {
+    "name": "Body connection movements",
+    "category": "Connections",
+    "unique": false,
+    "values": {
+      "solo": 0.1,
+      "duet": 0.1,
+      "team": 0.1
+    }
+  }
+]
